@@ -1,6 +1,7 @@
 # Backend-journey
 
-From heart to heart — not a professional thing.
+# From heart to heart — not a professional thing.
+
 As a young girl who always feels late for everything, while everyone around me seems to be at the top of the race, I'm not even close.
 I'm trying to be patient on this journey until I reach something — anything — that will make me feel calmer than I do right now.
 

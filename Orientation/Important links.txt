@@ -1,0 +1,16 @@
+Important links :
+
+--Youm sab3
+https://www.youm7.com/
+
+--Angular website
+https://angular.dev/
+
+--.NET Framework download
+https://dotnet.microsoft.com/en-us/download/dotnet-framework
+
+--.NET Framework versions
+https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-framework
+
+--.NET Core
+https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core

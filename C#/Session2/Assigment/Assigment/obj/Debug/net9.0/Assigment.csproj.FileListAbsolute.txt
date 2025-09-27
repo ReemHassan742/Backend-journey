@@ -1,0 +1,15 @@
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.AssemblyInfoInputs.cache
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.AssemblyInfo.cs
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.sourcelink.json
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\bin\Debug\net9.0\Assigment.exe
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\bin\Debug\net9.0\Assigment.deps.json
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\bin\Debug\net9.0\Assigment.runtimeconfig.json
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\bin\Debug\net9.0\Assigment.dll
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\bin\Debug\net9.0\Assigment.pdb
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.dll
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\refint\Assigment.dll
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.pdb
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\Assigment.genruntimeconfig.cache
+C:\Users\reemh\OneDrive\Desktop\C#\session2\Assigment\Assigment\obj\Debug\net9.0\ref\Assigment.dll

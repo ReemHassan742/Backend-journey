@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Specialized;
+using System.ComponentModel;
 using System.Diagnostics;
 namespace Assignment4
 {
@@ -261,6 +262,160 @@ namespace Assignment4
             */
             #endregion
 
+            #endregion
+
+            #region Functions
+            #region Task 1,2
+            //Explain the difference between passing(Value type parameters) by value and by reference then write a suitable c# example.
+            //Explain the difference between passing (Reference type parameters) by value and by reference then write a suitable c# example.
+            /*
+            int number = 5;
+            // Value type variable
+            Console.WriteLine($"Before PassByValue: {number}");
+            PassByValue(number);
+            Console.WriteLine($"After PassByValue: {number}");
+            Console.WriteLine();
+
+            // Reference type variable
+            Console.WriteLine("Before PassByReference: " + number);
+            PassByReference(ref number);
+            Console.WriteLine("After PassByReference: " + number);
+
+
+            static void PassByValue(int x)
+            {
+                x = 10;
+                Console.WriteLine($"Inside PassByValue: {x}");
+            }
+            static void PassByReference(ref int x)
+            {
+                x = 20;
+                Console.WriteLine($"Inside PassByReference: {x}");
+            }
+            */
+
+            #endregion
+
+            #region Task 3
+            //Write a c# Function that accept 4 parameters from user and return result of summation and subtracting of two numbers
+            /*
+            Console.WriteLine("Enter four integers:");
+            int num1 = int.Parse(Console.ReadLine());
+            int num2 = int.Parse(Console.ReadLine());
+            int num3 = int.Parse(Console.ReadLine());
+            int num4 = int.Parse(Console.ReadLine());
+            SumAndSubtract(num1, num2, num3, num4, out int sum, out int difference);
+            static void SumAndSubtract(int num1, int num2, int num3, int num4, out int sum, out int difference)
+            {
+                sum = num1 + num2;
+                difference = num3 - num4;
+            }
+            Console.WriteLine($"Sum of first two numbers: {sum}");
+            Console.WriteLine($"Difference of last two numbers: {difference}");
+            */
+            #endregion
+
+            #region Task 4
+            //Write a program in C# Sharp to create a function to calculate the sum of the individual digits of a given number.
+            //Enter a number: 25   ==> The sum of the digits of the number 25 is: 7
+            /*
+            Console.WriteLine("Enter a number:");
+            int number = int.Parse(Console.ReadLine());
+            static int SumOfDigits(int number)
+            {
+                int sum = 0;
+                while (number != 0)
+                {
+                    sum += number % 10;
+                    number /= 10;
+                }
+                return sum;
+            }
+            Console.WriteLine($"The sum of the digits of the number {number} is: {SumOfDigits(number)}");
+            */
+            #endregion
+
+            #region Task 5
+            //Create a function named "IsPrime", which receives an integer number and retuns true if it is prime, or false if it is not:
+            /*
+            int[] testNumbers = { -5, 0, 1, 2, 3, 4, 5, 9, 11, 15, 17, 25, 29 };
+
+            foreach (int num in testNumbers)
+            {
+                Console.WriteLine($"{num} => {IsPrime(num)}");
+            }
+
+
+             static bool IsPrime(int number)
+             {
+               if (number <= 1) return false;
+               if (number == 2) return true;
+               if (number % 2 == 0) return false;
+
+               for (int i = 3; i <= number / 2; i += 2)
+               {
+                  if (number % i == 0)
+                      return false;
+                }
+
+               return true;
+             }
+            */
+            #endregion
+
+            #region Task 6
+            //Create a function named MinMaxArray, to return the minimum and maximum values stored in an array, using reference parameters
+            /*
+            int[] arr = { 3, 5, 1, 8, -2, 7 };
+            Console.WriteLine($"Array: {string.Join(",", arr)}");
+            int min = 0 , max = 0;
+            MinMaxArray(arr, ref min, ref max);
+            Console.WriteLine($"Minimum: {min}, Maximum: {max}");
+
+            static void MinMaxArray(int[] arr, ref int min , ref int max)
+            {
+                min = arr[0];
+                max = arr[1];
+                for (int i = 1; i < arr.Length; i++)
+                {
+                    if (arr[i] < min)
+                    {
+                        min = arr[i];
+                    }
+                    if (arr[i] > max)
+                    {
+                        max = arr[i];
+                    }
+                }
+                
+            }
+            */
+
+            #endregion
+
+            #region Task 7
+            //Create an iterative (non-recursive) function to calculate the factorial of the number specified as parameter
+            /*
+            int factorialNumber = 5;
+            Console.WriteLine(Factorial(factorialNumber));
+
+            static int Factorial(int n)
+                            {
+                if (n < 0) return -1; // Factorial not defined for negative numbers
+                int result = 1;
+                for (int i = 2; i <= n; i++) 
+                {
+                    result *= i;
+                }
+                return result;
+            }
+            */
+            #endregion
+
+            #region Task 8
+            //Create a function named "ChangeChar" to modify a letter in a certain position (0 based) of a string, replacing it with a different letter
+            
+            #endregion
             #endregion
         }
     }

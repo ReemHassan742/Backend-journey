@@ -1,0 +1,11 @@
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\bin\Debug\net8.0\Common.deps.json
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\bin\Debug\net8.0\Common.dll
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\bin\Debug\net8.0\Common.pdb
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.dll
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\refint\Common.dll
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\Common.pdb
+D:\C43--Route\03 OOP\Session 01\Data\SessionOneGroupOneSolution\Common\obj\Debug\net8.0\ref\Common.dll

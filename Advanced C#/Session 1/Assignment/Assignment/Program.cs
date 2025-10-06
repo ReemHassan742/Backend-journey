@@ -1,4 +1,5 @@
 ﻿using Assignment.Generics;
+using System.Diagnostics.Metrics;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Assigment
@@ -29,7 +30,13 @@ namespace Assigment
                 Note: You can assume that the type T used in the Range<T> class implements the IComparable<T> interface to allow for comparisons.
 
              */
+            var intRange = new RangeGenerics<int>(10, 20);
+            Console.WriteLine(intRange.IsInRange(15)); 
+            Console.WriteLine(intRange.Length());      
 
+            var doubleRange = new RangeGenerics<double>(2.5, 7.5);
+            Console.WriteLine(doubleRange.IsInRange(8.1)); 
+            Console.WriteLine(doubleRange.Length());       
 
 
 
